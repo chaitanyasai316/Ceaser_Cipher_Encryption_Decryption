@@ -1,3 +1,8 @@
+# PRODIGY_CS_01
+
+## Task-01
+Create a Python program that can encrypt and decrypt text using the Caesar Cipher algorithm. Allow users to input a message and a shift value to perform encryption and decryption 
+
 # Caesar Cipher Encryption/Decryption
 
 This Python program implements a simple Caesar Cipher for encrypting and decrypting text. The Caesar Cipher shifts the characters in the message by a certain number (called the "shift value"). It can handle both uppercase and lowercase letters, while non-alphabet characters (e.g., spaces, punctuation) remain unchanged.
